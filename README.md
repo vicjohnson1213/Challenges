@@ -10,7 +10,7 @@ Table of Contents:
 
 ## Sorting Algorithms
 
-### [Alternating Sort]()
+### Alternating Sort
 
 Sorts an array such that the result alternates between lowest remaining value and highest remaining value.
 
